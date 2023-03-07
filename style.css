@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+div {
+    font-size: 20px;
+    text-align: justify;
+    margin: 15px;
+}
+
+.book {
+    font-weight: bold;
+}
+
+.bangla {
+    font-weight: bold;
+    font-style: italic;
+}
